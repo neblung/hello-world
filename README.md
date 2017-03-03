@@ -19,3 +19,4 @@ And feature-lists are great:
 - [x] create first repository
 - [x] do some experiments with the `README.md`
 - [x] clone and push from remote
+- [ ] push without the need to give credentials
