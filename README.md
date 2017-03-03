@@ -18,3 +18,4 @@ And feature-lists are great:
 - [ ] Learn everything about github
 - [x] create first repository
 - [x] do some experiments with the `README.md`
+- [x] clone and push from remote
