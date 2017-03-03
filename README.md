@@ -8,5 +8,6 @@ Let's try a list
 - second
 - and some **very important** note
 
-How link the official markdown-documentation?
+You can learn about Markdown [here](https://guides.github.com/features/mastering-markdown/)
+
 Syntax for hyperlinks is the same as with [Stackoverflow](http://www.stackoverflow.com)? 
