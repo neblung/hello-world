@@ -8,7 +8,8 @@ Let's try a list
 - second
 - and some **very important** note
 
-You can learn about Markdown [here](https://guides.github.com/features/mastering-markdown/)
+Learn about Markdown: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/),
+[Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 Syntax (not only for hyperlinks) is the same as with [Stackoverflow](http://www.stackoverflow.com)? 
 
@@ -20,3 +21,4 @@ And feature-lists are great:
 - [x] do some experiments with the `README.md`
 - [x] clone and push from remote
 - [ ] push without the need to give credentials
+
